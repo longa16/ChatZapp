@@ -21,8 +21,8 @@ A simple real-time chat application built with Node.js, Express and Socket.io
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/longa16/ChatZapp
+cd ChatZapp
 ```
 
 2. Install dependencies
