@@ -1,8 +1,8 @@
-# 🎯 Real-Time Chat Application
+# Real-Time Chat Application
 
 A simple real-time chat application built with Node.js, Express and Socket.io
 
-## 🌟 Features
+## Features
 - Real-time messaging
 - User connection/disconnection tracking
 - Public and private messages
@@ -12,7 +12,7 @@ A simple real-time chat application built with Node.js, Express and Socket.io
 - **Backend**: Node.js, Express, Socket.io
 - **Frontend**: Vanilla JavaScript, HTML5, CSS3
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (v14+)
