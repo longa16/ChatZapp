@@ -8,7 +8,7 @@ A simple real-time chat application built with Node.js, Express and Socket.io
 - Public and private messages
 - Simple and intuitive interface
 
-## 🛠 Technologies
+## Technologies
 - **Backend**: Node.js, Express, Socket.io
 - **Frontend**: Vanilla JavaScript, HTML5, CSS3
 
